@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DS-1090
 - 👀 I’m interested in Building Applications 
-- 🌱 I’m currently exploring Data Analysis, Web Dev 
+- 🌱 I’m currently exploring ML, Web Dev 
 - 📫 Reach me via LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a poet as well!
