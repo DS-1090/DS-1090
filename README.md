@@ -4,6 +4,7 @@
 - 📫 Reach me via LinkedIn  
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a poet as well!
+- 👩‍🎓 CSE, OUCE'25
   
 https://ds-1090.github.io/poetry-stack.github.io/
  <!---
