@@ -19,7 +19,7 @@
 </p>
 
   <summary><b>⚙️GitHub Analytics</b></summary>
-<a href="https://github.com/sanjay-kv">
+<a href="https://github.com/ds-1090">
    <img height="155em" src="https://raw.githubusercontent.com/ds-1090/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg"   />
    <img height="155em" src="https://raw.githubusercontent.com/ds-1090/github-card-template/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"   />
  <img height="155em" src="https://raw.githubusercontent.com/ds-1090/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg"   />
