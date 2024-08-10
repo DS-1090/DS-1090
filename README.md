@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - 👩‍🎓 CSE, OUCE'25
 - ⚡ Fun fact: I'm a poet as well! [Poetry Stack](https://ds-1090.github.io/poetry-stack.github.io/)
-- 🤝 Contributed to: https://github.com/Project-be25/mini_project , developed the entire client-side application
+- 🤝 Contributed to: https://github.com/Project-be25/mini_project , Developed the entire client-side application
 <br/>
 
 # 💻 Tech Stack
