@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m @DS-1090
 - 👀 I’m interested in Building Applications 
-- 🌱 I’m currently exploring ML, Web Dev 
+- 🌱 I’m currently exploring ML
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/divya-s-74379b223)
 - 😄 Pronouns: she/her
 - 👩‍🎓 CSE, OUCE'25
