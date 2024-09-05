@@ -94,18 +94,13 @@
 <br/>
 
 # 📊 GitHub Stats
-
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds-1090&theme=light&hide_border=true" alt="GitHub Streak Stats" height="200" width="400">
-<br>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ds-1090&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ds-1090&layout=compact&langs_count=8&card_width=320&hide_border=true" />
-</a>
+<p><img   src="https://github-readme-stats.vercel.app/api?username=DS-1090&show_icons=true&locale=en"  alt="DS-1090" />
+  <img   src="https://github-readme-streak-stats.herokuapp.com/?user=DS-1090&" alt="DS-1090" /></p>
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DS-1090&show_icons=true&locale=en&layout=compact" alt="DS-1090" /></p>
+<!--<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DS-1090" alt="DS-1090" /></a></p>-->
  </div>
 
 <br/>
