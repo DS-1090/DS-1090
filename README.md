@@ -97,9 +97,10 @@
 <div style="display: flex; justify-content: space-between;">
 
 <p><img   src="https://github-readme-stats.vercel.app/api?username=DS-1090&show_icons=true&locale=en"  alt="DS-1090" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DS-1090&show_icons=true&locale=en&layout=compact" alt="DS-1090" /></p>
+
   <img   src="https://github-readme-streak-stats.herokuapp.com/?user=DS-1090&" alt="DS-1090" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DS-1090&show_icons=true&locale=en&layout=compact" alt="DS-1090" /></p>
 <!--<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DS-1090" alt="DS-1090" /></a></p>-->
  </div>
 
