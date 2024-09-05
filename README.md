@@ -12,7 +12,7 @@
 # 💻 Tech Stack
 <div>
   <p align="left">
-    <strong style="font-size: 5em;">Web & App Development:        </strong>
+    <strong style="font-size: 5em;">Web & App Development:        </strong><br/>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
@@ -38,7 +38,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
     <br/>
-    <strong style="font-size: 5em;">Languages:</strong>
+    <br/>
+    <strong style="font-size: 5em;">Languages:</strong>  <br/>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
@@ -52,7 +53,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     </a>
     <br/>
-    <strong style="font-size: 5em;">Cloud & DataBases:</strong>
+    <br/>
+    <strong style="font-size: 5em;">Cloud & DataBases:</strong>  <br/>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     </a>
@@ -63,7 +65,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
     <br/>
-    <strong style="font-size: 5em;">Machine Learning:</strong>
+    <br/>
+    <strong style="font-size: 5em;">Machine Learning:</strong>  <br/>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
     </a>
@@ -71,7 +74,8 @@
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
     <br/>
-    <strong style="font-size: 5em;">Others:</strong>
+    <br/>
+    <strong style="font-size: 5em;">Others:</strong>  <br/>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     </a>
