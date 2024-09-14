@@ -110,11 +110,10 @@
 <br/>
 
 # 📫 Socials
+<p align="left">
  <a href="https://hub.docker.com/repositories/ds1090" target="_blank">
       <img src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png" width="40" height="40"/>
-    </a>
-    
-<p align="left">
+    </a>    
   <a href="https://www.kaggle.com/div456" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
