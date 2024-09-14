@@ -5,7 +5,7 @@
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/divya-s-74379b223)
 - 😄 Pronouns: she/her
 - 👩‍🎓 CSE, OUCE'25
-- ⚡ Fun fact: I'm a poet as well! [Poetry Stack](https://ds-1090.github.io/poetry-stack.github.io/)
+- ⚡ Fun fact: I'm a poet as well! [Poetry Stack](https://ds-1090.github.io/poetry-stack-2.O/)
 - 🤝 Contributed to: https://github.com/Project-be25/mini_project , Developed the entire client-side application
 <br/>
 
