@@ -1,12 +1,13 @@
-
-# 👋 Hi, I’m @DS-1090
-- 👀 I’m interested in building applications
-- 🌱 I’m currently exploring Machine Learning (ML)
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/divya-s-74379b223)
-- 😄 Pronouns: she/her
-- 👩‍🎓 CSE, OUCE '25
-- ⚡ Fun fact: I'm also a poet! [Poetry Stack](https://ds-1090.github.io/poetry-stack-2.O/)
-- 🤝 Contributed to: [Mini Project](https://github.com/Project-be25/mini_project) - Developed the client-side application
+| ![Profile Image](https://github.com/user-attachments/assets/3793c4d6-16b2-4c4e-b8c4-18aff339c614) |
+| :---: |
+| 👋 Hi, I’m @DS-1090 |
+| 👀 I’m interested in building applications |
+| 🌱 I’m currently exploring Machine Learning (ML) |
+| 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/divya-s-74379b223) |
+| 😄 Pronouns: she/her |
+| 👩‍🎓 CSE, OUCE '25 |
+| ⚡ Fun fact: I'm also a poet! [Poetry Stack](https://ds-1090.github.io/poetry-stack-2.O/) |
+| 🤝 Contributed to: [Mini Project](https://github.com/Project-be25/mini_project) - Developed the client-side application |
 
 <br/>
 
