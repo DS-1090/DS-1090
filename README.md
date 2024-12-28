@@ -7,7 +7,7 @@
       <li>👀 I build applications that tackle everyday challenges.</li>
       <li>📫 Connect with me on <a href="https://www.linkedin.com/in/divya-s-74379b223" target="_blank">LinkedIn</a>.</li>
       <li>👩‍🎓 CSE, OUCE '25</li>
-      <li>⚡ Fun fact: I'm also a poet! Check out my work on <a href="(https://divyayennam5544.wixsite.com/reflexions/my-blog)" target="_blank">Poetry Stack</a>.</li>
+      <li>⚡ Fun fact: I'm also a poet! Check out my work on <a href="https://divyayennam5544.wixsite.com/reflexions/my-blog" target="_blank">Poetry Stack</a>.</li>
       <li>🤝 Contributed to <a href="https://github.com/Project-be25/mini_project" target="_blank">Blaze Buddy</a>: Developed the client-side application.</li>
       <li>🦸‍♀️ I can do this all day... writing code, one semicolon at a time.</li>
       </ul>
