@@ -149,6 +149,6 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=ds-1090&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ds-1090)
 
 
