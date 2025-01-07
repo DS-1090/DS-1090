@@ -123,9 +123,9 @@
 ## 📈 GitHub Stats
 <div style="display: flex; justify-content: space-between;">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=DS-1090&show_icons=true&locale=en" alt="DS-1090" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DS-1090&show_icons=true&locale=en&layout=compact" alt="DS-1090" />
-  </p>
+
+
+![DS-1090's GitHub stats](https://github-readme-stats.vercel.app/api?username=DS-1090&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DS-1090&layout=compact&theme=radical)  </p>
 </div>
 <br/>
 
@@ -150,5 +150,4 @@
 <br/>
 
 
-[![](https://visitcount.itsvg.in/api?id=ds-1090&icon=2&color=12)](https://visitcount.itsvg.in)
-
+![Visitor Count](https://profile-counter.glitch.me/DS-1090/count.svg)
