@@ -5,7 +5,7 @@
       <h1>👋 Hi, I’m @DS-1090</h1>
       <ul>
       <li>👀 I build applications that tackle everyday challenges.</li>
-      <li>📫 Connect with me on <a href="https://www.linkedin.com/in/divya-s-74379b223" target="_blank">LinkedIn</a>.</li>
+      <li>📫 Connect with me on <a href="https://www.linkedin.com/in/divya1109/" target="_blank">LinkedIn</a>.</li>
       <li>👩‍🎓 CSE, OUCE '25</li>
       <li>⚡ Fun fact: I'm also a poet! Check out my work on <a href="https://divyayennam5544.wixsite.com/reflexions/my-blog" target="_blank">Reflexions</a>.</li>
       <li>🤝 Contributed to <a href="https://github.com/Project-be25/mini_project" target="_blank" >Blaze Buddy</a>: Developed the client-side application.</li>
